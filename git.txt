@@ -1,0 +1,11 @@
+프롬프트
+cd 경로
+git pull origin chance_mkr      git에 있는거 가져오기
+
+
+
+작업후
+
+
+
+

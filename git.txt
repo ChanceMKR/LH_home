@@ -8,4 +8,7 @@ git pull origin chance_mkr      git에 있는거 가져오기
 
 
 
-
+git checkout ydy
+git add .
+git commit -m "날짜 시간"
+git push

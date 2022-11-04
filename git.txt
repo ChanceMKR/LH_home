@@ -1,5 +1,7 @@
 프롬프트
 cd 경로
+깃 메시지 시간 확인하고
+git checkout ydy
 git pull origin chance_mkr      git에 있는거 가져오기
 
 
